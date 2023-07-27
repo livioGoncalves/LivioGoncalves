@@ -1,4 +1,4 @@
-### Hi there, i am Lívio Gonçalves 👋
+### Hi geofriends, i am Lívio Gonçalves 👋
 
 
 Here are some ideas to get you started:
@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 <a href=https://www.linkedin.com/in/livio-goncalves-/" target="_blank"><img src="/https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 									      target="_blank"></a>/a>
 </div>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div>
+a href = "livio.reily97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	
+</div>
+
  
 
 
