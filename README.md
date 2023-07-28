@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://www.linkedin.com/in/livio-goncalves-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a>		
- ![AZml](https://github.com/livioGoncalves/LivioGoncalves/assets/137110148/3a7315bc-e371-467f-b66c-fc2d46cff0b0)
 </div>
 
  
