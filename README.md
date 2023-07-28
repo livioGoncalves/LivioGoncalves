@@ -1,3 +1,6 @@
+![Captura_2](https://github.com/livioGoncalves/LivioGoncalves/assets/137110148/c9bf8cbb-a402-4981-a7c4-11b448293c1b)
+
+
 ### Hiello geofriends, i am Lívio Gonçalves 👋
 
 
@@ -10,9 +13,9 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://www.linkedin.com/in/livio-goncalves-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a>		
- ![geology](![AZml](https://github.com/livioGoncalves/LivioGoncalves/assets/137110148/3a7315bc-e371-467f-b66c-fc2d46cff0b0)
+ ![AZml](https://github.com/livioGoncalves/LivioGoncalves/assets/137110148/3a7315bc-e371-467f-b66c-fc2d46cff0b0)
 </div>
 
  
 
-
+![FMpQ](https://github.com/livioGoncalves/LivioGoncalves/assets/137110148/effb96a6-c6d5-410e-87a9-fa800fae6752) 
