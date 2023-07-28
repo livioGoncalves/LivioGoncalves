@@ -4,7 +4,7 @@
 ### Hiello geofriends, i am Lívio Gonçalves 👋
 
 
-Here are some ideas to get you started:
+About me:
 
 - ⚒️ I’m currently working as an exploration and production geologist in the oil and Gas industry
 - 🌎 I’m currently learning seismic and well data analysis using Python
